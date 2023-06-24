@@ -2,6 +2,10 @@
 
 PixelBlood is a plugin for [PocketMine-MP](https://pmmp.io/) that adds realistic blood particle effects when entities are damaged.
 
+[![](https://poggit.pmmp.io/shield.state/PixelBloodPE)](https://poggit.pmmp.io/p/PixelBloodPE)
+<a href="https://poggit.pmmp.io/p/PixelBloodPE"><img src="https://poggit.pmmp.io/shield.state/PixelBloodPE"></a> [![](https://poggit.pmmp.io/shield.api/PixelBloodPE)](https://poggit.pmmp.io/p/PixelBloodPE)
+<a href="https://poggit.pmmp.io/p/PixelBloodPE"><img src="https://poggit.pmmp.io/shield.api/PixelBloodPE"></a>
+
 ## Features
 
 - Customizable blood particle effects.
