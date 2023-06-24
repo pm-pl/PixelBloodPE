@@ -1,0 +1,9 @@
+name: PixelBlood
+main: wock\pixelblood\PixelBlood
+api: 5.0.0
+version: 1.0.0
+author: wockgod
+
+permissions:
+  pixelblood.command:
+    default: op
