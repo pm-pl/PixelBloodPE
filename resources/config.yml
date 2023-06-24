@@ -1,0 +1,6 @@
+# Blood Effects Plugin Configuration
+
+# Enable or disable blood effects globally
+blood-enabled: true
+
+blood-particle: "minecraft:redstone_ore_dust_particle"
