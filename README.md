@@ -14,7 +14,7 @@ PixelBlood is a plugin for [PocketMine-MP](https://pmmp.io/) that adds realistic
 
 ## Installation
 
-1. Download the latest release of PixelBlood from the [releases page](https://github.com/iLVOEWOCK/PixelBlood/releases).
+1. Download the latest release of PixelBlood from the [releases page](https://github.com/iLVOEWOCK/PixelBloodPE/releases).
 2. Place the `PixelBlood.phar` file into the `plugins` folder of your PocketMine-MP server.
 3. Start the server. PixelBlood will automatically be enabled.
 
